@@ -1,0 +1,32 @@
+.divsY {
+    border: solid 1px;
+    background-color: blanchedalmond;
+}
+#container{
+    width: 600px;
+    height: 600px;
+    display: grid;
+    margin-left: 25%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00b5d7;
+    padding: 30px;
+}
+
+#input{
+    margin-bottom: 20px;
+    margin-left: 25%;
+}
+
+h2{
+    margin-left: 25%;
+}
+
+body{
+    background-color:#f8efd9;
+    margin: 0px;
+}
