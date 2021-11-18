@@ -10,3 +10,5 @@ I did the following steps to develop this project:
 -Generate grid of different size
 
 This project is part the The Odin Project's curriculum.
+
+try demo: https://aldanamilesse.github.io/project-eatch-a-sketch/ 
